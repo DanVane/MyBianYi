@@ -1,0 +1,6 @@
+public class MyGPA {
+	public static void main(String[] args){
+		int i=1,g=2;
+		System.out.println("i+g="+(i+g));
+	}
+}

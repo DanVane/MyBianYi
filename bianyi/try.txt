@@ -1,0 +1,8 @@
+﻿S→aA 
+S→bB
+S→ε
+A→aB
+A→bA
+B→aS
+B→bA
+B→ε 
